@@ -3,7 +3,7 @@
 # Hi, I'm Mohammed 
 ### AI Systems Engineer • Full-Stack Architect • Mobile Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Platforms;Enterprise-Grade+Software+Engineer;Scalable+Backend+%26+Cloud+Architectures;High-Performance+Mobile+Applications;Real-Time+Systems+%26+Automation+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Backend+%26+Cloud+Architect;Full-Stack+Engineer;Mobile+Application+Developer;Building+Scalable+Production+Systems" />
 
 <br/>
 
@@ -19,6 +19,8 @@
 ---
 
 # About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=AI-Powered+Platforms+%7C+Agentic+Systems;Scalable+Backend+Architectures+%7C+Cloud+Systems;High-Performance+Mobile+Apps+%7C+Flutter+Engineering;Automation+Platforms+%7C+Developer+Tooling" />
 
 I engineer production-grade software systems focused on scalability, intelligent automation, AI-native architectures, and high-performance user experiences.
 
@@ -101,6 +103,32 @@ I focus on building systems that are:
 
 ---
 
+## Programming Languages & Engineering Focus
+
+### Core Engineering Language (AI + Backend Systems)
+- Python → AI systems, FastAPI backends, automation engines, agent frameworks, data pipelines
+
+### Mobile & Cross-Platform Engineering
+- Dart → Flutter architecture, scalable mobile applications, UI systems, performance optimization
+- Kotlin → Native Android systems-level development
+
+### Full-Stack & Application Engineering
+- JavaScript → Web applications, dashboards, integrations, tooling
+- TypeScript → Scalable frontend architectures, enterprise-grade web systems
+
+### Backend & Enterprise Systems
+- Java → Enterprise systems, backend architecture understanding, legacy integration systems
+- PHP → Legacy backend systems, web services, integrations
+
+### Data & System Design
+- SQL → Database design, query optimization, relational system architecture
+
+### 🔧 Infrastructure & DevOps Engineering
+- Bash → Automation, deployment scripting, system tooling
+- YAML → CI/CD pipelines, infrastructure configuration
+- JSON → API contracts, system communication, data modeling
+
+
 # Tech Stack
 
 <div align="center">
@@ -111,7 +139,7 @@ I focus on building systems that are:
 ![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge&logo=dart)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
 
 ---
