@@ -20,8 +20,6 @@
 
 # About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=AI-Powered+Platforms+%7C+Agentic+Systems;Scalable+Backend+Architectures+%7C+Cloud+Systems;High-Performance+Mobile+Apps+%7C+Flutter+Engineering;Automation+Platforms+%7C+Developer+Tooling" />
-
 I engineer production-grade software systems focused on scalability, intelligent automation, AI-native architectures, and high-performance user experiences.
 
 My expertise spans:
@@ -42,6 +40,10 @@ I focus on building systems that are:
 - Designed with clean architecture principles
 
 ---
+
+## What I Build
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=AI-Powered+Platforms+%7C+Agentic+Systems;Scalable+Backend+Architectures+%7C+Cloud+Systems;High-Performance+Mobile+Apps+%7C+Flutter+Engineering;Automation+Platforms+%7C+Developer+Tooling" />
+
 
 # Core Expertise
 
